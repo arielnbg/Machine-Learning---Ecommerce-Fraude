@@ -100,6 +100,12 @@ O notebook indica o **XGBoost** como modelo escolhido, por ter bom desempenho na
 
 ---
 
+## 📊 Resultado Final
+
+A imagem abaixo resume o desempenho do modelo escolhido (XGBoost), incluindo métricas e visualizações obtidas durante a avaliação.
+
+![Resultado do modelo](resultado.png)
+
 ## 🔧 Como executar
 
 ### Opção A) Google Colab (recomendado)
